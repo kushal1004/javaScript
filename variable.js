@@ -42,7 +42,7 @@ function test() {
   var x = 10;
   console.log(x); // 10
 }
-console.log(x); // Error: x is not defined
+console.log(x); // Error: x is not defined, bcz x is function scoped
 
 
 if (true) {
@@ -50,4 +50,4 @@ if (true) {
   const z = 30;
   console.log(y, z); // 20 30
 }
-console.log(y, z); // Error: y is not defined, z is not defined
+console.log(y, z); // Error: y is not defined, z is not defined bcz let and const are block scoped
