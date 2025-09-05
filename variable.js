@@ -36,3 +36,18 @@ employeeSalary = "60000"
 let employee; // declaration so output will be undefined
 
 console.table([employeeName, employeeAge, employeeEmial,employeePhone,employeeSalary,employee])
+
+
+function test() {
+  var x = 10;
+  console.log(x); // 10
+}
+console.log(x); // Error: x is not defined
+
+
+if (true) {
+  let y = 20;
+  const z = 30;
+  console.log(y, z); // 20 30
+}
+console.log(y, z); // Error: y is not defined, z is not defined
