@@ -13,8 +13,8 @@ This repository is intended to keep track of code snippets, exercises, and mini-
 🚀 Getting Started
 
 Clone the repo
-git clone https://github.com/<your-username>/javascript-practice.git
-cd javascript-practice
+git clone https://github.com/kushal1004/javaScript.git
+cd javaScript
 
 Open any folder in VS Code (or your preferred editor).
 Run the examples using:
