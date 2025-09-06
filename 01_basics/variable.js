@@ -6,7 +6,7 @@ const employeeAge  = "20"
 const employeeEmial = "kushal@gmail.com"
 
  /* 
- const cannot be updated
+  const cannot be updated
   const cannot be redeclared
   const is block scoped, it is not function scoped, it is not global scoped
   */

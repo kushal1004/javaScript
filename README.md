@@ -4,11 +4,20 @@ A personal playground for learning and experimenting with JavaScript concepts �
 This repository is intended to keep track of code snippets, exercises, and mini-projects while improving problem-solving skills.
 
 📂 Structure
-/01-basics       # variables, loops, conditionals, functions
-/02-dom          # DOM manipulation, events, forms
-/03-es6          # arrow functions, classes, modules
-/04-async        # promises, async/await, fetch
-/05-projects     # small apps (to-do, calculator, etc.)
+/01-basics  
+ # variables,data types(data type summary),convertion,comparison,operation,memory,string.number and math,date 
+
+/02-dom          
+# DOM manipulation, events, forms
+
+/03-es6          
+# arrow functions, classes, modules
+
+/04-async        
+# promises, async/await, fetch
+
+/05-projects     
+# small apps (to-do, calculator, etc.)
 
 🚀 Getting Started
 
