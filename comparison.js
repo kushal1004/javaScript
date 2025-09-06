@@ -33,7 +33,7 @@ console.log( undefined == 0); // false
 console.log( 0 === false); // false
 console.log( "" === false); // false
 console.log( null === undefined); // false
-console.log( NaN === NaN); // false
+console.log( NaN === NaN ); // false
  
 console.log("2" == 2); // true
 console.log("2" === 2); // false, because different types , === checks both value and type
