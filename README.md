@@ -5,19 +5,19 @@ This repository is intended to keep track of code snippets, exercises, and mini-
 
 📂 Structure
 /01-basics  
- # variables,data types(data type summary),convertion,comparison,operation,memory,string.number and math,date 
+    - variables,data types(data type summary),convertion,comparison,operation,memory,string.number and math,date 
 
 /02-dom          
-# DOM manipulation, events, forms
+    - DOM manipulation, events, forms
 
 /03-es6          
-# arrow functions, classes, modules
+    - arrow functions, classes, modules
 
 /04-async        
-# promises, async/await, fetch
+    - promises, async/await, fetch
 
 /05-projects     
-# small apps (to-do, calculator, etc.)
+    - small apps (to-do, calculator, etc.)
 
 🚀 Getting Started
 
@@ -28,11 +28,11 @@ cd javaScript
 Open any folder in VS Code (or your preferred editor).
 Run the examples using:
 node filename.js
-or open .html files directly in the browser.
+
 
 🧠 Topics Covered
 
-Core JavaScript (variables, functions, loops)
+Core JavaScript (variables, functions, loops,date,math,data types)
 ES6+ Features (arrow functions, template literals, modules)
 DOM Manipulation
 Events & Forms
